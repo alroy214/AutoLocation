@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto Location</string>
+    <string name="action_settings">Check Root</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="location_fragment">Location Fragment</string>
+    <string name="location_on">On</string>
+    <string name="location_off">Off</string>
+    <string name="location_toggle">Toggle</string>
+</resources>
